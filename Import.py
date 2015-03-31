@@ -2,7 +2,7 @@
 
 import Calc
 
-i = [23,54,31,77,12,34]
+i = [23,54,31,77,12,34,56]
 
 # Chamada a função definida em calc
 print Calc.media(i)

@@ -14,6 +14,9 @@ progs[-1] = 'King Crimson'
 # Incluindo
 progs.append('Camel')
 
+# Incluindo
+progs.append('Davi')
+
 # Removendo
 progs.remove ('Pink Floyd')
 
